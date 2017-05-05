@@ -10,7 +10,7 @@
  * @author Honza
  */
 public class Name {
-    private static final String ADR = "http://svatky.adresa.info/txt?";
+    private static final String ADR = "http://svatky.adresa.info/txt?lang=cs&";
     private String name = "";
 
     public Name(String name) {
